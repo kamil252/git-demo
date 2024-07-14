@@ -3,14 +3,4 @@ piosenki tej
 oto wers drugi
 tej piosenki
 
-trzeci wiersz
------------------------------------------
-
-lala
-
-lala
-
-kkkkkk
-
-for tag only
-
+some changes to see stashing
